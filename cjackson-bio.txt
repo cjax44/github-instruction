@@ -1,0 +1,11 @@
+Name : Chris Jackson
+Role : Student
+DOB : January 23, 1989
+Start : April 15, 2019
+
+Experienced student with some knowledge of the following software products:
+
+HTML
+CSS
+Javascript
+VBA
